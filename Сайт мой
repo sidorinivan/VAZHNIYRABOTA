@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>О миньонах</title>
+</head>
+<body>
+    <h1>Кто такие миньоны?</h1>
+    <h2>Миньоны-это маленькие жёлтые существа, которые прислуживают Грю(главному герою серии  мультфильмов "Гадкий я")</h2>
+    <p>Разберём их плюсы:</p>
+    <ol>
+    <li::marker>"Они милые"</li::marker>  
+    <li::marker>"Они смешные"</li::marker>
+    <li::marker>"Они одеты в синие комбинезоны"</li::marker>  
+    <li::marker>"Они носят очки"</li::marker>
+    </ol>
+    <a href="https://static.wikia.nocookie.net/protagonist/images/2/24/Minions-disneyscreencaps.com-9334.jpg/revision/latest?cb=20220404105536&path-prefix=ru" target="_blank">вот так они выглядят</a>
+    <img src="https://cambridge-intex.ru/wp-content/uploads/2017/08/starter-1.jpg" width="300" alt="Миньон Дэйв">
+</body>
+</html>
